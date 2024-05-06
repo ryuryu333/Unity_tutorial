@@ -7,3 +7,5 @@ Tutorial Welcome to 2D Beginner: Adventure Game開始
     - Get started witt Unity開始>完了  
     - Real-time creation開始>完了  
     - Essentials of real-time 3D開始>完了
+    - Essentials of programming in Unity開始>完了  
+    
