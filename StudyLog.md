@@ -6,4 +6,4 @@ Tutorial Welcome to 2D Beginner: Adventure Game開始
 - [Unity Essentials](https://learn.unity.com/pathway/unity-essentials)開始  
     - Get started witt Unity開始>完了  
     - Real-time creation開始>完了  
-    - Essentials of real-time 3D開始
+    - Essentials of real-time 3D開始>完了
