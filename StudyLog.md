@@ -11,3 +11,4 @@ Tutorial Welcome to 2D Beginner: Adventure Game開始
     - Essentials of real-time audio開始>完了
     24/5/12
     - Challenge: Sprite pachinko開始
+    次はBGMや絵の追加
