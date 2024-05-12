@@ -9,3 +9,5 @@ Tutorial Welcome to 2D Beginner: Adventure Game開始
     - Essentials of real-time 3D開始>完了
     - Essentials of programming in Unity開始>完了  
     - Essentials of real-time audio開始>完了
+    24/5/12
+    - Challenge: Sprite pachinko開始
