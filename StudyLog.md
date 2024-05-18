@@ -12,3 +12,6 @@ Tutorial Welcome to 2D Beginner: Adventure Game開始
     24/5/12
     - Challenge: Sprite pachinko開始
     次はBGMや絵の追加
+    24/5/18
+    - Challenge: Sprite pachinko完了
+    - The real-time production cycle開始
