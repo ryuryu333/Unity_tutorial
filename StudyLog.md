@@ -15,3 +15,6 @@ Tutorial Welcome to 2D Beginner: Adventure Game開始
     24/5/18
     - Challenge: Sprite pachinko完了
     - The real-time production cycle開始
+    24/5/18
+    - The real-time production cycle完了
+- Unity Essentials完了
